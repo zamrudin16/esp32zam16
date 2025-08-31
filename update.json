@@ -1,5 +1,5 @@
 {
   "version": "1.2",
   "token": "ABC123XYZ", 
-  "firmware_url": "http://10.11.36.29/iot/otawithversionjson.ino.bin"
+  "firmware_url": "https://raw.githubusercontent.com/zamrudin16/esp32zam16/main/lab_json_github_copy_20250831111045.ino"
 }
